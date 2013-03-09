@@ -1,3 +1,7 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <?php
     include "dbinfo.php";
     // DB connection info
@@ -36,5 +40,6 @@
     }
 ?>
 <form>
-    <input type="button" value="Click to go back." onClick="window.location.href='http://www.jackrlong.com/hack4/'">
+    <input type="button" value="Click to go back." onClick="window.location.href='http://www.jackrlong.com/telebears/'">
 </form>
+</html>

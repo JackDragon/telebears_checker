@@ -1,4 +1,7 @@
 <html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <body>
 <?php
 include "dbinfo.php";
@@ -23,7 +26,7 @@ else{
 ?>
 
 <form>
-    <input type="button" value="Click to go back." onClick="window.location.href='http://www.jackrlong.com/hack4/'">
+    <input type="button" value="Click to go back." onClick="window.location.href='http://www.jackrlong.com/telebears/'">
 </form>
 </body>
 </html>
