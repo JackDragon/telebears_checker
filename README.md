@@ -3,4 +3,9 @@ telebears_checker
 
 telebears checker website php mysql
 
-Check it out at jackrlong.com/hack4
+//####### IMPORTANT #################
+
+Check it out at jackrlong.com/telebears
+to actually see it working!
+
+//###################################
